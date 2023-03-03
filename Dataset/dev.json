@@ -991,14 +991,10 @@
         "topic": "政治與政策",
         "url": "https://tfc-taiwan.org.tw/articles/4533",
         "publish_date": "2020-09-29",
-        "char_labels": "OOOOOOIIIIIIIIIIIIIIIBIIIIIIIIBIIIIIIIIIIIIIIIIIII",
+        "char_labels": "OOOOOOBIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII",
         "span_labels": [
             [
-                21,
-                22
-            ],
-            [
-                30,
+                6,
                 50
             ]
         ]
